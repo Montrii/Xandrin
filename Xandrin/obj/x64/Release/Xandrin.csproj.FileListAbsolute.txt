@@ -1,0 +1,37 @@
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Xandrin.exe.config
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Xandrin.exe
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Xandrin.pdb
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Octokit.dll
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\Octokit.xml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.csproj.AssemblyReference.cache
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Theme\ButtonTheme.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MainWindow.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\CreditsView.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\DialogBoxWindow.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\HomeView.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\InfoView.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\MessageBoxWindow.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\App.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin_MarkupCompile.cache
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin_MarkupCompile.lref
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\App.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MainWindow.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\CreditsView.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\DialogBoxWindow.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\HomeView.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\InfoView.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\MVVM (MVC)\View\MessageBoxWindow.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Theme\MenuButtonTheme.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Theme\TextBoxTheme.baml
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.g.resources
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.Properties.Resources.resources
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.csproj.GenerateResource.cache
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.csproj.CoreCompileInputs.cache
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.csproj.CopyComplete
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.exe
+C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\x64\Release\Xandrin.pdb
+C:\Users\Drago\source\repos\Xandrin\Xandrin\bin\x64\Release\gtafunctions.dll
