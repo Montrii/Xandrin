@@ -22,7 +22,9 @@
             <Button x:Name="buttonClose" Margin="359,6,10,7" Style="{StaticResource RoundCorner}" Content="X">
             </Button>
             <TextBlock x:Name="textBoxContent" Grid.Row="1" Text="Content" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="16"></TextBlock>
+
             <TextBlock Grid.Row="2" Text="This is an auto-generated Popup." VerticalAlignment="Center" HorizontalAlignment="Center" FontStyle="Italic" FontSize="10" Foreground="#FF65656D"></TextBlock>
+            
         </Grid>
     </Border>
 </Window>

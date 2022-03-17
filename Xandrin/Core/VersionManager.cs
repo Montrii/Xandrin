@@ -36,6 +36,7 @@ namespace Xandrin.Core
             MessageBoxCreator mbc = new MessageBoxCreator();
             for (int i = 0; i < releases.Count; i++)
             {
+                Console.WriteLine(releases[i].Id);
                 if (i == 0 && releases[i].Id != currentID)
                 {
                     outdatedVersionByID = true;

@@ -23,5 +23,7 @@ namespace Xandrin.MVVM__MVC_.View
         {
             InitializeComponent();
         }
+
+
     }
 }

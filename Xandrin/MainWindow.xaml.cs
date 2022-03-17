@@ -29,9 +29,11 @@ namespace Xandrin
         {
             InitializeComponent();
             VersionManager v = new VersionManager(this);
-            v.checkForUpdates();
             m = (MainViewModel)this.DataContext;
             m.OnViewChanged += OnViewChanged;
+
+            APICommunicator api = new APICommunicator();
+            api.loginToDatabase("montri", "test123");
             
         }
 
