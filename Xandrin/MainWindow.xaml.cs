@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
+using System.Timers;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -25,17 +28,18 @@ namespace Xandrin
     {
         MainViewModel m;
         MessageBoxCreator mbc = new MessageBoxCreator();
+        APICommunicator api = new APICommunicator();
+
+
         public MainWindow()
         {
             InitializeComponent();
             VersionManager v = new VersionManager(this);
             m = (MainViewModel)this.DataContext;
-            m.OnViewChanged += OnViewChanged;
-
-            APICommunicator api = new APICommunicator();
-            api.loginToDatabase("montri", "test123");
-            
+            v.checkForUpdates();
+            Application.Current.SessionEnding += systemEnding;
         }
+
 
 
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
@@ -59,6 +63,32 @@ namespace Xandrin
                 mbc.createCustomMessageBox(this, "Changed!", "View was successfully changed.");
             }
             return true;
+        }
+
+        private void buttonRegister_Click(object sender, RoutedEventArgs e)
+        {
+            
+            MessageBox.Show(api.registerToDatabase(new Account(textBoxUsername.Text, textBoxPassword.Text)));
+        }
+
+        private void buttonLogin_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(api.loginToDatabase(new Account(textBoxUsername.Text, textBoxPassword.Text)));
+        }
+
+        private void Window_Closing(object sender, CancelEventArgs e)
+        {
+            api.signOutOfDatabase(api.UsedAccount);
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            api.signOutOfDatabase(api.UsedAccount);
+        }
+
+        private void systemEnding(object sender, SessionEndingCancelEventArgs e)
+        {
+            api.signOutOfDatabase(api.UsedAccount);
         }
     }
 

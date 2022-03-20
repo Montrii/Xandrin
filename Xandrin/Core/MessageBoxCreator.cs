@@ -12,6 +12,8 @@ namespace Xandrin.Core
     {
         private MessageBoxWindow window;
 
+        public MessageBoxWindow Window { get => window; set => window = value; }
+
         public void createCustomMessageBox(MainWindow mw, string titel, string content)
         {
             if(window == null)

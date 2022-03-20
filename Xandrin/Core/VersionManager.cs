@@ -12,7 +12,7 @@ namespace Xandrin.Core
 {
     public class VersionManager
     {
-        private long currentID = 61711184;
+        private string versionBuild = "v.0.9.0-alpha";
         private bool outdatedVersionByID = false;
         private MainWindow _mw;
         private string latestVersionDl = "";
@@ -37,7 +37,7 @@ namespace Xandrin.Core
             for (int i = 0; i < releases.Count; i++)
             {
                 Console.WriteLine(releases[i].Id);
-                if (i == 0 && releases[i].Id != currentID)
+                if (i == 0 && ( releases[i].Name != versionBuild || releases[i].TagName != versionBuild ) )
                 {
                     outdatedVersionByID = true;
                     latestVersionDl = "github.com/" + username + "/" + repos + "/archive/refs/tags/" + releases[i].TagName + ".zip";
@@ -50,8 +50,8 @@ namespace Xandrin.Core
             if(outdatedVersionByID)
             {
 
-                await downloadLatestRelease();
-                transferFilesToDirecoty(path, path.Replace("latestRelease", ""));
+                downloadLatestRelease();
+                //transferFilesToDirecoty(path, path.Replace("latestRelease", ""));
             }
             else
             {
@@ -59,24 +59,11 @@ namespace Xandrin.Core
             }
         }
 
-        private async Task downloadLatestRelease()
+        private void downloadLatestRelease()
         {
             MessageBoxCreator mbc = new MessageBoxCreator();
-            if (Directory.Exists(path))
-            {
-                Directory.Delete(path, true);
-                Directory.CreateDirectory(path);
-            }
-            else
-            {
-                Directory.CreateDirectory(path);
-            }
-            var wc = new WebClient();
-            wc.Headers.Add(HttpRequestHeader.UserAgent, "MyUserAgent");
-            string download = path + "latestRelease.zip";
-            await wc.DownloadFileTaskAsync(new Uri(latestRelease.ZipballUrl), download);
-            ZipFile.ExtractToDirectory(download, download.Replace("latestRelease.zip", ""));
-            mbc.createCustomMessageBox(_mw, "Warning", "Download extracted successfully!");
+            mbc.createCustomMessageBox(_mw, "Warning", "Download starting");
+            mbc.Window.startDownload(latestRelease, path);
         }
 
         public void transferFilesToDirecoty(string sourceFolder, string destFolder)

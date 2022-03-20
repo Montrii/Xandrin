@@ -15,5 +15,12 @@ namespace Xandrin
     public partial class App : Application
     {
         public SAHandler sa = new SAHandler();
+        public bool IsShuttingDown { get; private set; }
+
+        public new void Shutdown(int exitCode = 0)
+        {
+            this.IsShuttingDown = true;
+            base.Shutdown(exitCode);
+        }
     }
 }

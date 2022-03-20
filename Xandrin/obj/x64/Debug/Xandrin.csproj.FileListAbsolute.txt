@@ -70,3 +70,39 @@ C:\Users\Drago\Desktop\Schoolstuff\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.
 C:\Users\Drago\Desktop\Schoolstuff\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.CopyComplete
 C:\Users\Drago\Desktop\Schoolstuff\Xandrin\Xandrin\obj\x64\Debug\Xandrin.exe
 C:\Users\Drago\Desktop\Schoolstuff\Xandrin\Xandrin\obj\x64\Debug\Xandrin.pdb
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Xandrin.exe.config
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Xandrin.exe
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Xandrin.pdb
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Octokit.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Octokit.xml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.AssemblyReference.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Theme\ButtonTheme.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\CreditsView.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\DialogBoxWindow.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\HomeView.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\InfoView.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\MessageBoxWindow.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\App.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin_MarkupCompile.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin_MarkupCompile.lref
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\App.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MainWindow.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\CreditsView.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\DialogBoxWindow.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\HomeView.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\InfoView.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\MVVM (MVC)\View\MessageBoxWindow.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Theme\TextBoxTheme.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.g.resources
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.Properties.Resources.resources
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.GenerateResource.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.CoreCompileInputs.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.CopyComplete
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.exe
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.pdb
