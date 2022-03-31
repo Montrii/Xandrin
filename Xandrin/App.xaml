@@ -1,7 +1,6 @@
 ﻿<Application x:Class="Xandrin.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Xandrin"
              xmlns:viewModel="clr-namespace:Xandrin.MVVM__MVC_.Control"
              xmlns:view="clr-namespace:Xandrin.MVVM__MVC_.View"
              StartupUri="MainWindow.xaml">

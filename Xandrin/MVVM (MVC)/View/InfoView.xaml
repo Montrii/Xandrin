@@ -4,10 +4,17 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Xandrin.MVVM__MVC_.View"
+             xmlns:core="clr-namespace:Xandrin.Core"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800"
-             Background="Wheat">
+             d:DesignHeight="450" d:DesignWidth="800" Background="Transparent">
+    <UserControl.DataContext>
+        <core:InfoDataContext></core:InfoDataContext>
+    </UserControl.DataContext>
+    
     <Grid>
-        
+        <TextBox x:Name="textBoxTestOM" TextWrapping="Wrap" Margin="10,0,10,392" KeyDown="TextBox_KeyDown"/>
+        <ListBox x:Name="listBoxOnMission" Margin="266,113,119,237" ></ListBox>
     </Grid>
+
+
 </UserControl>

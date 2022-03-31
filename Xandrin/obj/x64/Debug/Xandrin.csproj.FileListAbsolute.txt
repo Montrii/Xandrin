@@ -106,3 +106,14 @@ C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.Cor
 C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.csproj.CopyComplete
 C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.exe
 C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\x64\Debug\Xandrin.pdb
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\OpenTK.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Syncfusion.Licensing.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\OpenTK.pdb
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\OpenTK.xml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\OpenTK.GLControl.pdb
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\OpenTK.GLControl.xml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\gtafunctions.dll
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\bin\x64\Debug\gtafunctions.pdb

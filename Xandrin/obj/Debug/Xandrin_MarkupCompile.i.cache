@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\Debug\
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\
 Xandrin
 none
 false
 DEBUG;TRACE
-C:\Users\Drago\source\repos\Xandrin\Xandrin\App.xaml
-5608798982
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\App.xaml
+9-1943414483
 
-171549972447
-131569487696
-MainWindow.xaml;MVVM (MVC)\View\CreditsView.xaml;MVVM (MVC)\View\HomeView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
+261703988107
+21-610390223
+MainWindow.xaml;MVVM (MVC)\View\CreditsView.xaml;MVVM (MVC)\View\DialogBoxWindow.xaml;MVVM (MVC)\View\HomeView.xaml;MVVM (MVC)\View\InfoView.xaml;MVVM (MVC)\View\MessageBoxWindow.xaml;Theme\ButtonTheme.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
 
-True
+False
 

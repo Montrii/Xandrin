@@ -55,10 +55,12 @@ namespace Xandrin.MVVM__MVC_.View
 
         void client_DownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
-            double bytesIn = double.Parse(e.BytesReceived.ToString());
-            double totalBytes = double.Parse(e.TotalBytesToReceive.ToString());
-            double percentage = bytesIn / e.TotalBytesToReceive * 100;
-            progressBarDownload.Value = int.Parse(Math.Truncate(percentage).ToString());
+            double bytesIn = Convert.ToDouble(e.BytesReceived.ToString());
+            double totalBytes = Convert.ToDouble(e.TotalBytesToReceive.ToString());
+            double percentage = bytesIn / totalBytes * 100;
+            Console.WriteLine(bytesIn);
+            Console.WriteLine(totalBytes);
+            progressBarDownload.Value = percentage;
         }
         void client_DownloadFileCompleted(object sender, AsyncCompletedEventArgs e)
         {

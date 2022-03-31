@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Xandrin.Core;
 
 namespace Xandrin.MVVM__MVC_.View
 {
@@ -22,7 +23,22 @@ namespace Xandrin.MVVM__MVC_.View
     {
         public InfoView()
         {
+            
             InitializeComponent();
+
+        }
+
+        private void TextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            InfoDataContext info = (InfoDataContext)this.DataContext;
+            if(e.Key == Key.Enter)
+            {
+                if(textBoxTestOM.Text == "1")
+                {
+                    listBoxOnMission.Items.Add("OnMission Flag changed to 1");
+                    listBoxOnMission.ScrollIntoView(listBoxOnMission.SelectedItem);
+                }
+            }
         }
     }
 }

@@ -22,9 +22,6 @@ namespace Xandrin.Core
 
 
         #region Private Fields
-        private readonly Rfc2898DeriveBytes _DeriveBytes;
-        private readonly byte[] _InitVectorBytes;
-        private readonly byte[] _KeyBytes;
         #endregion
 
         private const string InitVector = "T=A4rAzu94ez-dra";

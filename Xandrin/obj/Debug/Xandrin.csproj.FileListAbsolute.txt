@@ -21,3 +21,17 @@ C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\HomeView.b
 C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\CreditsView.g.cs
 C:\Users\Drago\source\repos\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\CreditsView.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\Xandrin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\Theme\ButtonTheme.baml
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\MainWindow.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\CreditsView.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\DialogBoxWindow.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\HomeView.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\InfoView.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\MVVM (MVC)\View\MessageBoxWindow.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\App.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\Xandrin_MarkupCompile.cache
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\Xandrin_MarkupCompile.lref
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\Xandrin.exe
+C:\Users\Drago\Documents\GitHub\Xandrin\Xandrin\obj\Debug\Xandrin.pdb
