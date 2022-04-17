@@ -25,6 +25,6 @@ ___
 ## Credits
 
 * [GTA Speedrunning](https://discord.com/invite/wFFG85c7a7) > For providing answers to speedrunning in general.
-* Unordered item
+* [GTA Mods](https://gtamods.com/wiki/Memory_Addresses_(SA)) [SpeedDemosArchive](https://kb.speeddemosarchive.com/Grand_Theft_Auto:_San_Andreas/Additional_Resources/Memory_Addresses#Game_Progress) [Plugin-SDK] (https://github.com/DK22Pac/plugin-sdk) > For providing memory addresses so i dont have to look for them.
 * Unordered item
 
