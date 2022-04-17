@@ -14,6 +14,7 @@ Also, it is very important to mention that this program is completely open-sourc
 |Version|Title|Supported?|
 |----|-----|-------|
 |v1.0|_Grand Theft Auto: San Andreas_|**yes**|
-|v1.01|_Grand Theft Auto: San Andreas_|**partially**|
+|v1.01/v2.00|_Grand Theft Auto: San Andreas_|**partially**|
+|
 
 
