@@ -18,6 +18,7 @@ Also, it is very important to mention that this program is completely open-sourc
 |Steam/RL|_Grand Theft Auto: San Andreas_|**no**|
 |Windows Store|_Grand Theft Auto: San Andreas_|**no**|
 |Definitive Edition|_Grand Theft Auto: San Andreas_|**no**|
-|any|_Grand Theft Auto: Vice City_|**current no**|
+|any|_Grand Theft Auto: Vice City_|**planned**|
+|any|_Grand Theft Auto: 3_|**planned**|
 
 
