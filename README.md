@@ -11,7 +11,7 @@ Also, it is very important to mention that this program is completely open-sourc
 
 ## Requirements
 
-> The resources and login system require you to have an established internet connection during use.
+* Internet Connection
 
 ## Features
 
@@ -20,7 +20,7 @@ Also, it is very important to mention that this program is completely open-sourc
 * Advanced Frame Limiter
 * Auto-Update Feature through Github-Releases
 
-## Supported Version
+## Supported Versions
 
 |Version|Title|Supported?|
 |----|-----|-------|
