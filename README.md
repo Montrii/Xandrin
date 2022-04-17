@@ -24,7 +24,7 @@ ___
 
 ## Credits
 
-* ![Discord Icon](https://www.speedrun.com/images/socialmedia/discord.png)[GTA Speedrunning](https://discord.com/invite/wFFG85c7a7)
+* [GTA Speedrunning](https://discord.com/invite/wFFG85c7a7)
 * Unordered item
 * Unordered item
 
