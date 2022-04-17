@@ -22,5 +22,6 @@ Also, it is very important to mention that this program is completely open-sourc
 |any|_Grand Theft Auto: 3_|**planned**|
 
 > **Keep in Mind**: This table is being updated.
+***
 
 
