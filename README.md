@@ -9,7 +9,7 @@ Xandrin gives you the opportunity to speedrun _"Grand Theft Auto: San Andreas"_ 
 Do you just want to get certain resources to simplify the speedrun experience? Or would you rather push the game to its limits? Give it a try.  
 
 
-Also, it is very important to mention that this program is completely open-source. Why you might ask? Because I wouldn't have been able to figure it all out on my own. Of course I asked other people how something works. And that's why everyone should get the chance to look at this code to maybe learn something in their career.
+Also, it is very important to mention that this program is completely **open-source**. Why you might ask? Because I wouldn't have been able to figure it all out on my own. Of course I asked other people how something works. And that's why everyone should get the chance to look at this code to maybe learn something in their career.
 
 ## Requirements
 
