@@ -22,4 +22,9 @@ Also, it is very important to mention that this program is completely open-sourc
 > (This table is being updated.)
 ___
 
+## Credits
+
+* [GTA Speedrunning](https://discord.com/invite/wFFG85c7a7)
+* Unordered item
+* Unordered item
 
