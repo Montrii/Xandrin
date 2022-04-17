@@ -1,3 +1,1 @@
-<div style="text-align:center">
-<h1> Xandrin </h1> 
-</div>
+[![Github All Releases](https://img.shields.io/github/downloads/Montrii/Xandrin/total.svg)]()
