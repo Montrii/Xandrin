@@ -31,3 +31,7 @@ ___
 * [PluginSDK](https://github.com/DK22Pac/plugin-sdk)  
 (For providing memory addresses)
 
+## License
+
+> Licensed under MIT License
+
